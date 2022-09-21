@@ -19,5 +19,6 @@ public class Prueba {
         System.out.println(31- c);
         System.out.println("Cuanto es 2+2 " + (2+2));
         System.out.println(2+2);
+        System.out.println("2+2");
     }
 }
