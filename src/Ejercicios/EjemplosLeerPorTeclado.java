@@ -34,25 +34,6 @@ public class EjemplosLeerPorTeclado {
         System.out.println("Y cual es tu patrimonio");
         double patrimonio = sc.nextDouble();
         System.out.println("muy bien eso"+ patrimonio);
-        //con los decimales:
-        //Cuando los escribimoa en el codigo fuenye: se pone
-        //cuando metemos lso datos por teclado:se pone ,
-
-        //formas alternativas de declarar una variable (pag11)
-        String lenguaje = "java";
-        String version ="8 o superior";
-        //esto tambien se puuede hacer asi:
-        String lenguaje1 ="java" , version1 ="10 o Uperiro";
-        int num1 = 5 , num2=10; //declaro variables int en la misma linea
-        //tambien se puede hacer
-        int num3; //aqui declaro la varible sin asignar nada, coge el valor por definion y es el 0
-        num3=6;
-        num3=num1; // aqui guarda en numero 3 el valor de numero 1
-        System.out.println(num3);
-        //inferencia de tipo
-        var variable="hola";
-        var otraVariable=10;
-        System.out.println(lenguaje1);
 
 
 
