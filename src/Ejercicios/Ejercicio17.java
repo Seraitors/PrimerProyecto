@@ -1,3 +1,5 @@
+package Ejercicios;
+
 public class Ejercicio17 {
     public static void main(String[] args) {
         // Asigna valores a estas cuatro valores

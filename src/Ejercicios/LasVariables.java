@@ -40,6 +40,7 @@ public class LasVariables {
         String version ="8 o superior";
         //esto tambien se puuede hacer asi:
         String lenguaje1 ="java" , version1 ="10 o Uperiro";
+        System.out.println(version1);
         int num1 = 5 , num2=10; //declaro variables int en la misma linea
         //tambien se puede hacer
         int num3; //aqui declaro la varible sin asignar nada, coge el valor por definion y es el 0
