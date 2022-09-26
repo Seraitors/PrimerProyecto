@@ -6,7 +6,7 @@ public class Ejercicio9 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("momentoinicial");
+        System.out.println("momento inicial");
         System.out.println("========");
         System.out.println("intodruce l ahora");
         int hora1 = sc.nextInt();
@@ -18,6 +18,12 @@ public class Ejercicio9 {
         //dividimes todos lod iniciales y los finales  luego restarlo para ver la difrencia
         // hayar diferencia entre ambos
         //de esa diferencia de seg que tenemos lo pasamos a h min seg
+        System.out.println("Momenos final");
+        System.out.println("========");
+        System.out.println("Introduce 1 hora");
+        int hora2 = sc.nextInt();
+        System.out.println("minu");
+
 
 
     }
