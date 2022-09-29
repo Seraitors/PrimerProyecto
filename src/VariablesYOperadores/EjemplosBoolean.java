@@ -31,7 +31,7 @@ public class EjemplosBoolean {
 
         boolean frío = false ; // no hace frio
         boolean seco = true ; // hace tiempo seco
-        boolean verano false ; // no estamos en verano
+        boolean verano= false ; // no estamos en verano
         boolean trekking = seco && ( !frío || verano ) ; // true , nos vamos de trekking !
 
     }
